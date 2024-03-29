@@ -1,0 +1,265 @@
+/* all body css */
+body {
+    font-family: "Work Sans", sans-serif
+}
+
+/* believe section css */
+.believe-section {
+    background-image: url(../images/banner/banner3.png);
+    height: 800px;
+
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+
+.believe-container {
+    text-align: right;
+    margin: 10px, 10px;
+
+    padding: 80px;
+
+
+}
+
+
+
+
+.believe-h1 {
+    color: rgb(255, 255, 255);
+    font-size: 65px;
+    font-weight: 700;
+    text-align: right;
+
+}
+
+.believe-paragraph {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.believe-btn {
+    border-radius: 5px;
+
+    background: rgb(255, 255, 255);
+    margin: 5px;
+    padding: 20px;
+    border: 1px solid rgb(0, 95, 172);
+}
+
+.button-text {
+    color: rgb(0, 95, 172);
+
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+/* failure-section */
+
+.failure-section {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.failure-container {
+    display: flex;
+    gap: 60px;
+
+}
+
+.failure-decription {
+    margin-top: 250px;
+}
+
+.failure-h1 {
+    color: rgb(21, 20, 20);
+
+    font-size: 40px;
+    font-weight: 700;
+
+    text-align: left;
+}
+
+.failure-paragraph {
+    color: rgb(68, 67, 67);
+
+    font-size: 16px;
+    font-weight: 400;
+
+    text-align: left;
+
+}
+
+.failure-ul {
+    color: rgb(68, 67, 67);
+
+    font-size: 16px;
+    font-weight: 400;
+
+    text-align: left;
+}
+
+/* icon-container */
+.alternative-section {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.icon-container {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+
+
+
+
+}
+
+
+.icon-h1 {
+    text-align: center;
+    color: rgb(21, 20, 20);
+
+    font-size: 40px;
+    font-weight: 700;
+
+    text-align: center;
+    padding-bottom: 40px;
+
+}
+
+.icon-h2 {
+    color: rgb(21, 20, 20);
+
+    font-size: 30px;
+    font-weight: 700;
+
+    text-align: center;
+}
+
+.icon-h3 {
+    color: rgb(115, 114, 114);
+
+    font-size: 25px;
+    font-weight: 500;
+
+    text-align: center;
+}
+
+/* mindset-container */
+.mindset-section {
+    margin-top: 100px;
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+
+
+}
+
+.mindset-container {
+    padding-left: 64px;
+    /* padding-top: 20px; */
+    padding-bottom: 60px;
+    background-image: url(../images/gradient1.png);
+    background-position: left center;
+    background-repeat: no-repeat;
+
+}
+
+.mindset-h1 {
+    color: rgb(255, 255, 255);
+
+    font-size: 40px;
+    font-weight: 700;
+
+    text-align: left;
+    padding-top: 30px;
+}
+
+/* footer-container */
+
+.footer-section {
+    display: flex;
+    margin-top: 100px;
+    background-color: rgb(21, 20, 20);
+
+    justify-content: space-around;
+
+
+}
+
+.footer-container {
+    padding-left: 50px;
+
+
+}
+
+.footer-h1 {
+    color: rgb(248, 248, 248);
+
+    font-size: 45px;
+    font-weight: 700;
+
+    text-align: left;
+}
+
+.footer-paragraph {
+    color: rgb(255, 255, 255);
+
+    font-size: 16px;
+    font-weight: 400;
+
+    text-align: left;
+}
+
+.footer-icon {
+    display: flex;
+   
+}
+.footer-icon img{
+    margin-left: 20px;
+}
+
+.Subscribe-container {
+    margin-top: 100px;
+}
+
+.Subscribe-h3 {
+    color: rgb(255, 255, 255);
+
+    font-size: 25px;
+    font-weight: 600;
+
+    text-align: left;
+}
+
+.Subscribe-input {
+    background-color: black;
+    width: 325px;
+    height: 64px;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+
+.Subscribe-btn {
+    border-radius: 5px;
+
+    background:  rgb(0, 95, 172);;
+    margin: 5px;
+    padding: 20px;
+    border: 1px solid rgb(0, 95, 172);
+    
+}
+.Subscribe-btn-text{ 
+    color: rgb(255, 255, 255)
+
+    font-size: 20px;
+    font-weight: 600;
+}
